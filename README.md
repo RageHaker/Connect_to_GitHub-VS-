@@ -4,8 +4,8 @@
 >
 > ![alt text](https://github.com/RageHaker/Trade/blob/master/ForReadme/First.png)
 >
-> 3. Входим на аккаунт GitGub
+> 2. Входим на аккаунт GitGub
 >
 > ![alt text](https://github.com/RageHaker/Trade/blob/master/ForReadme/Second.png)
 >
-> 4. Нажимаем кнопку Создать и отправить
+> 3. Нажимаем кнопку Создать и отправить
